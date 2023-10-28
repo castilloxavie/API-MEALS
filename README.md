@@ -4,7 +4,7 @@
 
 
 ## INSTALLED LIBRARIES OR  TOOLS
-##### NOTE: *Before running the tools and libraries, clone the project that is in the following path ---> https://github.com/castilloxavie/appi-motorcycles, keep in mind to clone the env.temolate file and rename it .env and add the variables of environment*
+##### NOTE: *Before running the tools and libraries, clone the project that is in the following path ---> https://github.com/castilloxavie/API-MEALS, keep in mind to clone the env.temolate file and rename it .env and add the variables of environment*
 
 ```sh
 npm init -y
